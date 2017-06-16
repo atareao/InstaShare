@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InstaShare</string>
+    <string name="about">Acerca de...</string>
+    <string name="action_settings">Configuración</string>
+    <string name="app_description">Comparte imágenes</string>
+    <string name="ok">Aceptar</string>
+    <string name="start_monitor">Ya puedes compartir desde Instagram con \"Copiar URL\"</string>
+    <string name="stop_monitor">Has dejado de monitorizar Instagram</string>
+    <string name="instructions_play">Pulsa el botón para iniciar la captura desde Instagram. Una vez iniciado, solo tienes que seleccionar \"Copiar URL\" en Instagram para compartir la imagen con otras aplicaciones.</string>
+    <string name="instructions_pause">Pulsa el botón para detener la captura desde Instagram.</string>
+</resources>
